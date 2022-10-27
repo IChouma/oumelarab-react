@@ -1,0 +1,10 @@
+.home {
+  background: url(../../images//Home.webp) no-repeat;
+  background-size: contain;
+  background-position: right;
+}
+.content h3,
+.content p,
+.content a {
+  direction: rtl;
+}
